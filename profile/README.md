@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg" alt="IF Goiano - Campus Ceres" width="180px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg" alt="IF Goiano - Campus Ceres" width="180px" />
   
   # Instituto Federal Goiano - Campus Ceres
   ### Núcleo de Tecnologia e Desenvolvimento de Sistemas
